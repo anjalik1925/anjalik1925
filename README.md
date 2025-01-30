@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/anjalik198" target="blank"><img src="https://img.shields.io/twitter/follow/anjalik198?logo=twitter&style=for-the-badge" alt="anjalik198" /></a> </p>
 
-- 🔭 I’m currently working on **Food Genie app**
+- 🔭 I’m currently working on **Price Prediction using ZenML & MLFlow**
 
-- 🌱 I’m currently learning **React.js Node.js express next.js MongoDB**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **react node**
 
