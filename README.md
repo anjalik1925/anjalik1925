@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anjalikumari19025@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qmD939UqXcdooBSONl3YBwgenOPoGboE/view?usp=drivesdk](https://drive.google.com/file/d/1qmD939UqXcdooBSONl3YBwgenOPoGboE/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1p2Qmg1YMttdH5v_QnCSuY8zpPBqatX_V](https://drive.google.com/file/d/1p2Qmg1YMttdH5v_QnCSuY8zpPBqatX_V)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
