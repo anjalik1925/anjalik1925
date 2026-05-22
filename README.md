@@ -1,19 +1,59 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalik1925&label=Profile%20views&color=0e75b6&style=flat" alt="anjalik1925" /> </p>
+<h3 align="center">
+AI & Full Stack Developer | CSE (Software Engineering) Student
+</h3>
 
-<p align="left"> <a href="https://twitter.com/anjalik198" target="blank"><img src="https://img.shields.io/twitter/follow/anjalik198?logo=twitter&style=for-the-badge" alt="anjalik198" /></a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anjalik1925&label=Profile%20Views&color=blue&style=flat" alt="views"/>
+</p>
 
-- 🔭 I’m currently working on **Price Prediction using ZenML & MLFlow**
+<p align="center">
+<a href="https://twitter.com/anjalik198">
+<img src="https://img.shields.io/twitter/follow/anjalik198?logo=twitter&style=for-the-badge"/>
+</a>
+</p>
 
-- 🌱 I’m currently learning **Machine Learning**
+---
 
-- 💬 Ask me about **react node**
+## 🚀 About Me
 
-- 📫 How to reach me **anjalikumari19025@gmail.com**
+🌱 Learning **AI, Machine Learning & Backend Development**  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p2Qmg1YMttdH5v_QnCSuY8zpPBqatX_V](https://drive.google.com/file/d/1p2Qmg1YMttdH5v_QnCSuY8zpPBqatX_V)
+💡 Building **AI + Full Stack Solutions**  
+
+🎓 B.Tech CSE (Software Engineering) | SRM IST  
+
+💬 Ask me about **React, Node.js, MongoDB, Python & AI**  
+
+📫 **anjalikumari19025@gmail.com**
+
+---
+
+## 💻 Featured Projects
+
+🚨 **SurakshaNetra**  
+Privacy-Preserving Risk Detection in Public Spaces
+
+🤖 **CareBot-360**  
+AI Healthcare Chatbot using GPT + LangChain + Pinecone
+
+💳 **Online Payment Fraud Detection**  
+Machine Learning based Fraud Detection System
+
+🍽️ **Food Genie**  
+Meal Planning & Subscription Platform
+
+---
+
+## 🏆 Achievements
+
+🏅 Presented **SurakshaNetra** at **VIT Conference**  
+
+👩‍🏫 Guided by **Dr. G. Maragatham**  
+
+📜 AWS | Oracle | IBM | NPTEL Certified
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
